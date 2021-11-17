@@ -1,2 +1,3 @@
 # odin_recipes
-theodinproject
+THE ODIN PROJECT
+My first website!
